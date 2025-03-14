@@ -1,0 +1,12 @@
+# Marie's Mushroom madness
+- tomato sauce
+- cheese
+- mushrooms
+- chanterelle
+- funnel chanterelle
+- truffel oil
+- walnuts
+- garlic
+- goats cheese
+- ruccola
+- oregano
