@@ -7,3 +7,4 @@
  - mozarella
  - green bell pepper
  - white onion
+- green bell pepper
